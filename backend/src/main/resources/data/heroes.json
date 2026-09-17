@@ -1,0 +1,16 @@
+{
+  "yasuo": {
+    "name": "亚索",
+    "attackSpeed": "fast",
+    "base":   { "attackDamage": 60, "armor": 30, "maxHp": 590 },
+    "growth": { "attackDamage": 3.0, "armor": 3.4, "maxHp": 101 }
+  },
+
+  "renekton": {
+    "name": "雷克顿",
+    "attackSpeed": "slow",
+    "base":   { "attackDamage": 69, "armor": 35, "maxHp": 660 },
+    "growth": { "attackDamage": 3.75, "armor": 5.2, "maxHp": 111 }
+  }
+}
+

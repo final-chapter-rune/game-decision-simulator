@@ -1,0 +1,50 @@
+{
+  "longSword": {
+    "name": "长剑",
+    "price": 350,
+    "stats": {
+      "attackDamage": 10
+    }
+  },
+
+  "dagger": {
+    "name": "短剑",
+    "price": 300,
+    "stats": {
+      "attackSpeed": 12
+    }
+  },
+
+  "pickaxe": {
+    "name": "十字镐",
+    "price": 875,
+    "stats": {
+      "attackDamage": 25
+    }
+  },
+
+  "doransBlade": {
+    "name": "多兰之刃",
+    "price": 450,
+    "stats": {
+      "attackDamage": 8,
+      "health": 80
+    }
+  },
+
+  "rubyCrystal": {
+    "name": "红水晶",
+    "price": 400,
+    "stats": {
+      "health": 150
+    }
+  },
+
+  "clothArmor": {
+    "name": "布甲",
+    "price": 300,
+    "stats": {
+      "armor": 15
+    }
+  }
+}
